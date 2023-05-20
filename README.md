@@ -9,6 +9,7 @@ Projeto de um sistema de uma biblioteca simples, na qual são cadastrados autore
 * H2 Console
 * Maven
 ## Modelo entidade relacionamento
+![modelo](mer.jpg)
  
  
  
